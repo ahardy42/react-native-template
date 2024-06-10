@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template",
+  "version": "1.0.0",
+  "description": "simple react native template",
+  "repository": "git@github.com:ahardy42/react-native-template.git",
+  "author": "Andy Hardy",
+  "license": "MIT"
+}
